@@ -144,6 +144,8 @@ document.getElementById("84").style.background=(a[8][4]?"rgb(2, 255, 255)":"rgb(
 }
 function bas() {
   setTimeout(() => {
+    document.getElementById("start").setAttribute("onclick","location.reload()");
+    document.getElementById("start").disabled=0;
     tt.style.display="none";
     x.style.height="45%";
     x.style.left="22%";
@@ -151,7 +153,7 @@ function bas() {
   }, 600);
   setTimeout(() => {
     if(confirm(n+" and Jojo scored "+(s-1)+". Click OK to retry.")==true)location.reload();
-  }, 2200);
+  }, 1800);
 }
 function tm0() {
   tt.style.top="0%";
