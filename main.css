@@ -34,7 +34,7 @@ td {
     position: absolute;
     bottom: 0%;
     width: 100%;
-    height: 11%;
+    height: 15%;
 }
 .op1 {
     background: black;
@@ -95,7 +95,7 @@ td {
 button {
     margin-top:0%;
     margin-left: 10%;
-    height:75%;
+    height:65%;
     color: #111;
     background: #39ff14;
     box-shadow: 0 0 10vw #39ff14;
