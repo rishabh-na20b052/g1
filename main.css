@@ -106,9 +106,8 @@ button {
 }
 
 button.start {
-    margin-top:3.5%;
-    margin-left: 5.5%;
-    height:55%;
+    margin-left: 35%;
+    height:15%;
     background: snow;
     color:red;
     box-shadow: 0 0 5vw red;
