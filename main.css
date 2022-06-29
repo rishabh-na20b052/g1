@@ -1,13 +1,12 @@
 body {
     background: #000000;
     margin: 0;
-}
-.baap{
-     max-width: 60vh;
+    max-width: 60vh;
      display: block;
      margin: 0 auto;
      position: relative;
 }
+
 .navbar {
     position: absolute; top: 0%;
     background: black;
