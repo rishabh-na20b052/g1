@@ -425,3 +425,13 @@ function main() {
     }, 1250);
   }, 2000);
 }
+document.addEventListener('keydown', function(e) {
+    switch (e.keyCode) {
+        case 37:
+            left();
+            break;
+        case 39:
+            right();
+            break;
+    }
+});
