@@ -43,7 +43,7 @@ td {
     height: 15%;
 }
 .op1 {
-    background: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2),black);
     opacity: 10%;
     position: absolute;
     bottom: 0%;
@@ -51,60 +51,7 @@ td {
     max-width: 60vh;
     height: 15%;
 }
-.op2 {
-    background: black;
-    opacity: 15%;
-    position: absolute;
-    bottom: 0%;
-    width: 100%;
-    max-width: 60vh;
-    height: 14%;
-}
-.op3 {
-    background: black;
-    opacity: 25%;
-    position: absolute;
-    bottom: 0%;
-    width: 100%;
-    max-width: 60vh;
-    height: 13%;
-}
-.op4 {
-    background: black;
-    opacity: 25%;
-    position: absolute;
-    bottom: 0%;
-    width: 100%;
-    max-width: 60vh;
-    height: 12%;
-}
-.op5 {
-    background: black;
-    opacity: 35%;
-    position: absolute;
-    bottom: 0%;
-    width: 100%;
-    max-width: 60vh;
-    height: 11%;
-}
-.op6 {
-    background: black;
-    opacity: 35%;
-    position: absolute;
-    bottom: 0%;
-    width: 100%;
-    max-width: 60vh;
-    height: 10%;
-}
-.op7 {
-    background: black;
-    opacity: 50%;
-    position: absolute;
-    bottom: 0%;
-    width: 100%;
-    max-width: 60vh;
-    height: 9%;
-}
+
 button {
     margin-top:0%;
     margin-left: 10%;
